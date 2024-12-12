@@ -1,0 +1,38 @@
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7860
+ * Running on http://10.2.0.254:7860
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 139-237-661
+127.0.0.1 - - [12/Dec/2024 11:47:49] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [12/Dec/2024 11:47:49] "GET /static/css/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [12/Dec/2024 11:47:49] "GET /static/js/chess.js HTTP/1.1" 200 -
+127.0.0.1 - - [12/Dec/2024 11:47:49] "GET /static/images/black-knight.svg HTTP/1.1" 200 -
+127.0.0.1 - - [12/Dec/2024 11:47:49] "GET /static/images/white-knight.svg HTTP/1.1" 200 -
+127.0.0.1 - - [12/Dec/2024 11:47:49] "GET /static/images/black-bishop.svg HTTP/1.1" 200 -
+127.0.0.1 - - [12/Dec/2024 11:47:49] "GET /static/images/white-bishop.svg HTTP/1.1" 200 -
+127.0.0.1 - - [12/Dec/2024 11:47:49] "GET /static/images/white-pawn.svg HTTP/1.1" 200 -
+127.0.0.1 - - [12/Dec/2024 11:47:49] "GET /static/images/black-pawn.svg HTTP/1.1" 200 -
+127.0.0.1 - - [12/Dec/2024 11:47:49] "GET /static/images/black-rook.svg HTTP/1.1" 200 -
+127.0.0.1 - - [12/Dec/2024 11:47:49] "GET /static/images/white-king.svg HTTP/1.1" 200 -
+127.0.0.1 - - [12/Dec/2024 11:47:49] "GET /static/images/white-queen.svg HTTP/1.1" 200 -
+127.0.0.1 - - [12/Dec/2024 11:47:49] "GET /static/images/black-king.svg HTTP/1.1" 200 -
+127.0.0.1 - - [12/Dec/2024 11:47:49] "GET /static/images/black-queen.svg HTTP/1.1" 200 -
+127.0.0.1 - - [12/Dec/2024 11:47:49] "GET /static/images/white-rook.svg HTTP/1.1" 200 -
+127.0.0.1 - - [12/Dec/2024 11:48:42] "POST /get_valid_moves HTTP/1.1" 200 -
+ * Detected change in '/workspace/chess_game/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 139-237-661
+ * Detected change in '/workspace/chess_game/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 139-237-661
+ * Detected change in '/workspace/chess_game/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 139-237-661
